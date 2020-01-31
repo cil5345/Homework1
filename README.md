@@ -1,4 +1,4 @@
-# Horiseaon Semantic HTML5 Change
+# Horiseon Semantic HTML5 Change
 
 **Version 1.0**
 
